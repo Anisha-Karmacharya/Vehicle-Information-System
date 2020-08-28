@@ -1,0 +1,13 @@
+Accessory Id,Accessory Name,Accessory Category,Company/Brand,Price Range,Price,Rating
+1,Leg Guard,Bike,TVS,Low,150,4
+2,Engine Guard,Bike,Yamaha,High,15000,5
+3,Monoshock,Scooter,Yamaha,High,6600,4
+4,Frame Sliders,Bike,Bajaj,Low,400,3
+5,Visor,Scooter,TVS,High,555,4
+6,Mud Guards,Bike,Bajaj,High,8890,3
+7,Master Cylinder,Bike,Yamaha,Low,650,5
+8,Engine Oil,Scooter,TVS,High,10000,4
+9,Visor,Scooter,Yamaha,High,3000,4
+10,Drum Brakes,Bike,Bajaj,High,5000,2
+11,Led headlight,Scooter,TVS,Low,3000,3
+12,Halogen headlight,Bike,TVS,High,7000,4
